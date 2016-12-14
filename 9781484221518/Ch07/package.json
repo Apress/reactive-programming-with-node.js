@@ -1,0 +1,15 @@
+{
+  "name": "cheese.js",
+  "version": "1.0.0",
+  "description": "",
+  "main": "test-cheese1.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "event-stream": "^3.3.4",
+    "lodash": "^4.15.0"
+  }
+}
